@@ -1,12 +1,12 @@
 Hello, how are you doing ? 
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Page Title</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
+<h1 style ="color : black ">This is a Heading</h1>
 <p>This is a paragraph.</p>
 
 </body>
