@@ -64,50 +64,50 @@ td{
         </thead>
 
         <tbody id="data00" > <tr class="data" id="data01" >
-                <th><td  ><p class="name">abhishek </p>  </td></th>
+                <th><td  ><p class="name"> A1 </p>  </td></th>
                 <th><td>1101</td></th>
                 <th><td>99 </td></th>
             </tr>
 
             <tr id="data02" class="data">
-                <th><td > <p class="name">ajay</p>  </td></th>
+                <th><td > <p class="name">A2</p>  </td></th>
                 <th><td>1102</td></th>
                 <th><td>98 </td></th>
             </tr>
 
             <tr id="data03" class="data">
-                <th><td ><p class="name"> bunty </p> </td></th>
+                <th><td ><p class="name"> B </p> </td></th>
                 <th><td>1103</td></th>
                 <th><td>98 </td></th>
             </tr>
 
             <tr id="data04" class="data">
-                <th><td><p class="name"> Gulshan </p> </td></th>
+                <th><td><p class="name"> G </p> </td></th>
                 <th><td>1104</td></th>
                 <th><td>97 </td></th>
             </tr>
 
             <tr id="data05" class="data">
-                <th><td><p class="name">karan </p></td></th>
+                <th><td><p class="name">K1</p></td></th>
                 <th><td>1105 </td></th>
                 <th><td>96 </td></th>
             </tr>
 
            <tr id="data06" class="data">
-                <th><td> <p class="name">komal </p> </td></th>
+                <th><td> <p class="name">K2 </p> </td></th>
                 <th><td>1106</td></th>
                 <th><td>95 </td></th>
             </tr>
             
                 <tr id="data07" class="data">
-               <th><td><p class="name"> neeraj</p> </td></th>
+               <th><td><p class="name"> N </p> </td></th>
                 <th><td>1107</td></th>
                 <th class="data"><td>94 </td></th>
                 </tr>
 
 
              <tr id="data08" class="data"> 
-                <th><td> <p class="name">priyanka </p> </td></th>
+                <th><td> <p class="name"> P </p> </td></th>
                 <th><td>1108</td></th>
                 <th><td>93 </td></th> 
             </tr>
