@@ -102,7 +102,7 @@ td{
                 <tr id="data07" class="data">
                <th><td><p class="name"> neeraj</p> </td></th>
                 <th><td>1107</td></th>
-                <th><td>94 </td></th>
+                <th class="data"><td>94 </td></th>
                 </tr>
 
 
