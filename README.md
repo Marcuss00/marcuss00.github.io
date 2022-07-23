@@ -10,6 +10,48 @@
     <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet">
 
 </head>
+    <style>*{
+     font-family: 'Dosis', sans-serif;
+
+}
+ body{
+     height: 100vh;
+     display: grid;
+     justify-content: center;
+     align-items: center;
+     font-size: 17px;
+ }
+table {
+     
+     border-collapse: collapse;
+     box-shadow: 2px 5px 10px 2px ;
+     overflow: hidden;
+     text-align: center;
+     
+}
+thead{
+     box-shadow: 0 5px 10px;
+     
+}
+
+th {
+     border-collapse: collapse;
+     padding:7px 14px 7px ;
+     letter-spacing: 0.7rem ;
+    
+}
+td{
+     padding:5px 10px 7px ;
+}
+.name{
+    
+     box-shadow: 1.2px 1.2px 1.2px 1.2px grey;
+}
+.name:hover{
+    
+     box-shadow: 1.2px 1.2px 1.2px 1.2px rgb(214, 208, 208) inset;
+}
+    </style>
 
 <body> 
     <table>
